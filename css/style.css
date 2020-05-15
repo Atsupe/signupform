@@ -60,6 +60,12 @@
     text-transform: uppercase;
     font-weight: 700;
   }
+
+  footer {
+    padding-top: 300px;
+    text-align: center;
+    color: #fff;
+  }
   
   input[type],
   button {
